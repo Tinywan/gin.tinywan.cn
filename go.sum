@@ -1,3 +1,5 @@
+github.com/Tinywan/golang-tutorial v0.0.0-20200830132113-86cea0734146 h1:5Lx5VGTyR1NNlfYCHC/0VeTm6WMBeQiR+PWnpCJCQNw=
+github.com/Tinywan/golang-tutorial v0.0.0-20200830132113-86cea0734146/go.mod h1:azQRuMh5KGb/1IZUaOQvKIub+aKiIGMiN37SFHKD8sE=
 github.com/appleboy/gin-jwt v2.5.0+incompatible h1:oLQTP1fiGDoDKoC2UDqXD9iqCP44ABIZMMenfH/xCqw=
 github.com/appleboy/gin-jwt v2.5.0+incompatible/go.mod h1:pG7tv32IEe5wEh1NSQzcyD02ZZAqZWp07RdGiIhgaRQ=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
