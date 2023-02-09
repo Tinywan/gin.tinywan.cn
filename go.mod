@@ -3,9 +3,12 @@ module gin.tinywan.cn/v1.0.0
 go 1.17
 
 require (
-	github.com/appleboy/gin-jwt v2.5.0+incompatible // indirect
+	github.com/appleboy/gin-jwt v2.5.0+incompatible
+	github.com/gin-gonic/gin v1.7.7
+)
+
+require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
-	github.com/gin-gonic/gin v1.7.4 // indirect
 	github.com/go-playground/locales v0.13.0 // indirect
 	github.com/go-playground/universal-translator v0.17.0 // indirect
 	github.com/go-playground/validator/v10 v10.4.1 // indirect
